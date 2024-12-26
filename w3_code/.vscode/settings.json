@@ -1,0 +1,5 @@
+{
+  "solidity.remappings": [
+    "@openzeppelin/=project/contracts/lib/openzeppelin-contracts/"
+  ]
+}

@@ -5,6 +5,7 @@ libs = ['lib']
 
 solc = "0.8.18" # to use a specific local solc install set the path as `solc = "<path to solc>/solc"`
 
+
 fs_permissions = [{ access = "read-write", path = "./output"}]
 
 [profile.local]
